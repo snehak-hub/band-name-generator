@@ -1,6 +1,6 @@
  Band Name Generator 🎸🎤
 
-A fun and interactive web application that generates creative band name ideas based on user input!  
+A fun and interactive web application that generates creative band name ideas randomly !  
 Built using **Node.js**, **Express**, and **EJS**.
 
 ---
